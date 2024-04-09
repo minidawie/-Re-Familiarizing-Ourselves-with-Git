@@ -2,7 +2,7 @@
 
 ![Luffy hi](https://ih1.redbubble.net/image.4430665649.5073/raf,360x360,075,t,fafafa:ca443f4786.jpg)
 
-**_This is not a quote_&&
+** _This is not a quote_ **
 > This is a quote
 
 This is me `quoting code`
