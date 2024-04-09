@@ -17,7 +17,7 @@ block format
 [Queen of Tears](https://mydramalist.com/725367-untitled-park-ji-eun-project)
 > This is the current kdrama that I am dying over
 
-[This is a list of files that were made but not pushed to github](/.gitignore)
+[This is a link to a random md file for the sake of this task](/random.md)
 
 Here is a list of webtoon that im currently reading in no specific ranking
 - double click
